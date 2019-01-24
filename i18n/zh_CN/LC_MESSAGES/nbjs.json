@@ -275,7 +275,7 @@
             "切换选中单元格滚动方式"
          ],
          "clear cell output": [
-            "清空所有单元格输出"
+            "清空单元格输出"
          ],
          "clear output of selected cells": [
             "清空选中单元格的输出"
@@ -584,7 +584,7 @@
             "重新加载"
          ],
          "Overwrite": [
-            "重写"
+            "覆盖"
          ],
          "Trust": [
             "信任"
@@ -932,7 +932,7 @@
             "撤销选择"
          ],
          "toggle overwrite flag": [
-            "切换 重写标志"
+            "切换 覆盖标志"
          ],
          "Shift": [
             "Shift"
