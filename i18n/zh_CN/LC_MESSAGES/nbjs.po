@@ -1609,7 +1609,7 @@ msgstr "在选中的单元格中替换"
 
 #: notebook/static/notebook/js/searchandreplace.js:176
 msgid "Match case"
-msgstr "匹配"
+msgstr "匹配大小写"
 
 #: notebook/static/notebook/js/searchandreplace.js:182
 msgid "Find"
@@ -1625,7 +1625,7 @@ msgstr "无匹配项, 正则表达式无效或为空"
 
 #: notebook/static/notebook/js/searchandreplace.js:348
 msgid "Replace All"
-msgstr "替换所有"
+msgstr "全部替换"
 
 #: notebook/static/notebook/js/searchandreplace.js:352
 msgid "Find and Replace"
